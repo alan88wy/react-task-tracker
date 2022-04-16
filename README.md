@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React based Task Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project track your tasks in the db.json file using json-server.
 
 ## Available Scripts
 
