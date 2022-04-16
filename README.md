@@ -2,6 +2,7 @@
 
 This project track your tasks in the db.json file using json-server.
 
+![Task Tracker](/images/task.png "Task Tracker")
 ## Available Scripts
 
 In the project directory, you can run:
